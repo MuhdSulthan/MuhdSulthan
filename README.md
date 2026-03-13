@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=ABOUT%20ME&fontSize=70&animation=fadeIn&fontAlignY=50" />
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
