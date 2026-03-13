@@ -1,16 +1,18 @@
 # <p align="center">🌌 Cipher Voyager: Muhammad Sulthan 🌌</p>
 
 <p align="center">
-  <img src="./images/banner.png" alt="Cipher Voyager Banner" width="100%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Initializing+Cipher+Voyager...;Sector%3A+Cybersecurity+Architect;Methodology%3A+Construct-and-Deconstruct;Status%3A+Scanning+for+Knowledge...;Ready+for+Deployment." alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <strong>Cybersecurity Architect | Post-Quantum Researcher | Digital Wanderer</strong>
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhdSulthan&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/Vkan6pSEI9R8u9JpL5/giphy.gif" width="30"> Scanning Sector...
+### <img src="https://media.giphy.com/media/Vkan6pSEI9R8u9JpL5/giphy.gif" width="30"> System Logs: Introduction
 
 > "Securing tomorrow through today’s learning. I craft intuitive, secured experiences through a methodology of Construct-and-Deconstruct."
 
@@ -18,47 +20,40 @@ I am **Sulthan**, an aspiring cybersecurity professional with a relentless drive
 
 ---
 
-### 🛠️ Core Arsenal (Skills)
+### 🛠️ Tactical Arsenal (Skills)
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>🛡️ Defense & Forensics</strong><br>
-      Magnet AXIOM • pfSense<br>
-      Cellebrite UFED • Wireshark<br>
-      True Imager • Network Analysis
-    </td>
-    <td align="center" width="33%">
-      <strong>🛰️ The Tech Stack</strong><br>
-      Python • JavaScript<br>
-      Next.js • React Native<br>
-      Bash • SQL • PowerShell
-    </td>
-    <td align="center" width="33%">
-      <strong>🌌 Research Lab</strong><br>
-      Post-Quantum Crypto (Kyber/Dilithium)<br>
-      Quantum Computing Impacts<br>
-      Zero-Knowledge Proofs
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/pfSense-251000?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 ---
 
-### 🚀 Mission Control (Featured Projects)
+### 🚀 Decrypted Intelligence (Featured Projects)
 
 #### [📦 SecureBox](https://github.com/MuhdSulthan/SecureBox) - *Stealth PQC Storage*
-> A secure mobile application protecting sensitive files behind a deceptive currency converter interface. Powered by **Kyber-768** and **AES-256-GCM**.
+`[STATUS: DEPLOYED]` `[CRYPTO: KYBER-768]`  
+A secure mobile application protecting sensitive files behind a deceptive currency converter interface. Powered by Post-Quantum Cryptography to ensure data integrity in the age of quantum computing.
 
-#### [💬 Project Anony](https://github.com/MuhdSulthan/ProjectAnonymous) - *Dark Chat Architecture*
-> End-to-end encrypted chat with voice/video calling. Zero-knowledge architecture utilizing **RSA-2048** to ensure the server remains blind to user data.
+#### [💬 Project Anony](https://github.com/MuhdSulthan/ProjectAnonymous) - *Zero-Knowledge Architecture*
+`[STATUS: ACTIVE]` `[CRYPTO: RSA-2048]`  
+End-to-end encrypted chat with voice/video calling. Designed with a strict zero-knowledge policy, ensuring that communication remain private and independent of server-side logs.
 
 #### [📡 RAAPD](https://github.com/MuhdSulthan/NetworkAnomalyShield) - *Anomaly Detection Engine*
-> Real-time anomaly analysis and packet detection system. Monitoring network pulses to identify PII leaks and traffic irregularities.
+`[STATUS: STABLE]` `[ALGO: REAL-TIME ANALYTICS]`  
+Real-time anomaly analysis and packet detection system. Monitoring network pulses to identify PII leaks and traffic irregularities before they become breaches.
 
 ---
 
-### 📊 Tactical Data (Stats)
+### 📊 Tactical Data (Live)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhdSulthan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
@@ -71,20 +66,20 @@ I am **Sulthan**, an aspiring cybersecurity professional with a relentless drive
 
 ---
 
-### 🛤️ The Journey (Experience)
+### 🛤️ Operational History
 
 - **👮 Kerala Police Academy** | *Cyber Security Intern*
-  - Engineered pfSense firewalls and analyzed 100+ packets/sec in controlled labs.
+  - Engineered pfSense firewalls and monitored 100+ packets/sec in controlled lab environments.
 - **🛡️ Alibi Global** | *Cyber Forensics Intern*
-  - Conducted forensic analysis on criminal case studies using Magnet AXIOM and Cellebrite.
+  - Conducted digital investigations for criminal case studies using Magnet AXIOM and Cellebrite UFED.
 
 ---
 
-### 🌌 Scanning the Horizon (Current Focus)
+### 🌅 Scanning the Horizon (Current Focus)
 
-- 🔍 **Advanced Pentesting** | Moving from analysis to tactical exploitation research.
-- ⚛️ **PQC Migration** | Building tools for the post-quantum transition.
-- 🌍 **Open Source Security** | Contributing to the global defense community.
+- 🔍 **Tactical Pentesting** | Transitioning from analysis to ethical security exploitation.
+- ⚛️ **Quantum Resistance** | Building migration paths for post-quantum security standards.
+- 🌍 **Open Source Defense** | Contributing to the global ecosystem of security tools.
 
 ---
 
