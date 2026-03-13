@@ -1,7 +1,7 @@
 # <p align="center">🌌 Cipher Voyager: Muhammad Sulthan 🌌</p>
 
 <p align="center">
-  <img src="file:///C:/Users/muhds/.gemini/antigravity/brain/16f7e0d0-709d-4718-a7af-101da178bc11/starlight_cipher_voyager_banner_1773418093183.png" alt="Cipher Voyager Banner" width="100%">
+  <img src="./images/banner.png" alt="Cipher Voyager Banner" width="100%">
 </p>
 
 <p align="center">
