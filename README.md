@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=ABOUT%20ME&fontSize=70&animation=fadeIn&fontAlignY=50" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=ACCESSING_DATABASE...;>_ABOUT_ME" alt="Typing SVG" />
   </a>
