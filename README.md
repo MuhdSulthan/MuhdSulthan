@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=ACCESSING_DATABASE...;>_ABOUT_ME" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github.com/MuhdSulthan/MuhdSulthan/blob/main/images/banner.gif?raw=true" alt="Banner Animation" width="100%" />
 </p>
 
